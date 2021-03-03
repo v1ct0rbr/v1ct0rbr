@@ -14,7 +14,7 @@
 <a href="https://linkedin.com/in/victor-queiroga" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="victor-queiroga" height="30" width="40" /></a>
 <a href="https://instagram.com/queirogavictor" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="queirogavictor" height="30" width="40" /></a>
 <a href="https://discord.gg/https://discord.gg/xEcDjXsKWM" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg" alt="https://discord.gg/xEcDjXsKWM" height="30" width="40" /></a>
-<a href="/https://devbench.com.br/?call_custom_simple_rss=1&csrp_posts_per_page=5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://devbench.com.br/?call_custom_simple_rss=1&csrp_posts_per_page=5" height="30" width="40" /></a>
+<a href="https://devbench.com.br/?call_custom_simple_rss=1&csrp_posts_per_page=5" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/rss.svg" alt="https://devbench.com.br/?call_custom_simple_rss=1&csrp_posts_per_page=5" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
