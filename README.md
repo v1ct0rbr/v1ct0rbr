@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **AWS, Rest API'S e ReactJS**
 
-- 📝 I regularly write articles on [https://www.devbench.com.br](https://www.devbench.com.br)
+- 📝 Personal WebSite [https://victorqueiroga.com](https://victorqueiroga.com)
 
 - 💬 Ask me about **AWS and Spring Framework**
 
-- 📫 How to reach me **contato@devbench.com.br**
+- 📫 How to reach me **contato@victorqueiroga.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
