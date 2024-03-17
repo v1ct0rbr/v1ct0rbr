@@ -93,8 +93,8 @@
 
 ###
 
-<div align="left">
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs?username=v1ct0rbr&show_icons=true&locale=en&layout=compact"  />
+<div align="center">
+ 
   <img height="200" src="https://github-readme-streak-stats.herokuapp.com/?user=v1ct0rbr&"  />
 </div>
 
